@@ -8,7 +8,6 @@ public class QuestionList {
 
     @SerializedName("response_code")
     private int responseCode;
-
     @SerializedName("results")
     private List<Question> questionList;
 

@@ -4,7 +4,7 @@ import com.google.gson.annotations.SerializedName;
 
 import java.util.List;
 
-class Question {
+public class Question {
 
     private String category;
     private String type;
